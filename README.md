@@ -1,6 +1,6 @@
 # Random-Forest
 
-For this project we will be exploring publicly available data from [LendingClub](https://www.lendingclub.com/loans/personal-loans?referrerId=490425&partnerID=80019&param2=GzB011zA003zAC6zLP1z&utm_source=pl_search&utm_medium=google&utm_campaign=B011:Lending%20Club%20-%20%5BE%5D&utm_term=lendingclub&utm_content=261936063495&PID=go_770005150_41393001995_261936063495_kwd-538032117_c&gclid=CjwKCAjw-8nbBRBnEiwAqWt1zUx9-otR6lpnBth1Xg5Iw4h0BhW38T-xNuU5I7lVhQvAZH38PRq3pBoCh44QAvD_BwE)connects people who need money (borrowers) with people who have money (investors).We will try to create a model that will help predict this.
+For this project we will be exploring publicly available data from [LendingClub](https://www.lendingclub.com/loans/personal-loans?referrerId=490425&partnerID=80019&param2=GzB011zA003zAC6zLP1z&utm_source=pl_search&utm_medium=google&utm_campaign=B011:Lending%20Club%20-%20%5BE%5D&utm_term=lendingclub&utm_content=261936063495&PID=go_770005150_41393001995_261936063495_kwd-538032117_c&gclid=CjwKCAjw-8nbBRBnEiwAqWt1zUx9-otR6lpnBth1Xg5Iw4h0BhW38T-xNuU5I7lVhQvAZH38PRq3pBoCh44QAvD_BwE) connects people who need money (borrowers) with people who have money (investors).We will try to create a model that will help predict this.
 
 Lending club had a [very interesting year](https://en.wikipedia.org/wiki/Lending_Club#2016) in 2016, so let's check out some of their data and keep the context in mind. This data is from before they even went public.
 
