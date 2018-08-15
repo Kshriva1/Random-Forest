@@ -7,6 +7,7 @@ Lending club had a [very interesting year](https://en.wikipedia.org/wiki/Lending
 We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from here or just use the csv already provided. It's recommended you use the csv provided as it has been cleaned of NA values.
 
 Here are what the columns represent:
+```
 - credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 - purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
 - int.rate: The interest rate of the loan, as a proportion (a rate of 11% would be stored as 0.11). Borrowers judged by LendingClub.com to be more risky are assigned higher interest rates.
@@ -20,6 +21,7 @@ Here are what the columns represent:
 - inq.last.6mths: The borrower's number of inquiries by creditors in the last 6 months.
 - delinq.2yrs: The number of times the borrower had been 30+ days past due on a payment in the past 2 years.
 - pub.rec: The borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+```
 
 # Dependencies
 
