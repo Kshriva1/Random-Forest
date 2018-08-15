@@ -4,7 +4,7 @@ For this project we will be exploring publicly available data from [LendingClub]
 
 Lending club had a [very interesting year](https://en.wikipedia.org/wiki/Lending_Club#2016) in 2016, so let's check out some of their data and keep the context in mind. This data is from before they even went public.
 
-We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. The dataset is [here](https://github.com/Kshriva1/Random-Forest/blob/master/loan_data.csv)
+We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. The dataset is [here](https://github.com/Kshriva1/Random-Forest/blob/master/loan_data.csv).
 
 Here are what the columns represent:
 
